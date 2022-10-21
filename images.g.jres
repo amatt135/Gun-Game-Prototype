@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQUABQAAAAiIiIiIiIiIiIiAAAiIiIiIiIiIiIiAAAiIiIiIiIiIiIiAAAiIiIiIiIiIiIiAAAiIiIiIiIiIiIiAAAiIiEiIiIiIiEiAAAiIhIiESEiEiIiAAAiIiIh8SEiISIiAAAiIiIiESESIiIiAAAiIiIiIiIhIiIiAAAiIiIiIiIhIiIiAAAiIiIiESESIiIiAAAiIiIh8SEiISIiAAAiIhIiESEiEiIiAAAiIiEiIiIiIiEiAAAiIiIiIiIiIiIiAAAiIiIiIiIiIiIiAAAiIiIiIiIiIiIiAAAiIiIiIiIiIiIiAAAiIiIiIiIiIiIiAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Angry cube"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

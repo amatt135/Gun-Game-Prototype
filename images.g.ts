@@ -1,0 +1,41 @@
+// Auto-generated code. Do not edit.
+namespace myImages {
+
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "image1":
+            case "Angry cube":return img`
+22222222222222222222
+22222222222222222222
+22222222222222222222
+22222222222222222222
+22222122222222122222
+22222212222221222222
+22222221222212222222
+22222222222222222222
+22222211122111222222
+2222221f1221f1222222
+22222211122111222222
+22222222222222222222
+22222222211222222222
+22222222122122222222
+22222221222212222222
+22222212222221222222
+22222122222222122222
+22222222222222222222
+22222222222222222222
+22222222222222222222
+`;
+        }
+        return null;
+    })
+
+    helpers._registerFactory("animation", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+}
+// Auto-generated code. Do not edit.
